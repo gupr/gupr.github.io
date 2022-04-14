@@ -5,11 +5,11 @@ include_in_header: true
 ---
 
 **Last updated**  
-May 4 2021
+April 14 2022
 
 # Privacy Policy
 
-gupr built the Danger Driving app as an Ad Supported app. This SERVICE is provided by gupr at no cost and is intended for use as is.
+Gustisen built the Danger Driving app as an Ad Supported app. This SERVICE is provided by Gustisen at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
