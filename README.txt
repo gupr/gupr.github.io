@@ -1,3 +1,3 @@
-gupr homepage
+Gustisen homepage
 
 for projects
