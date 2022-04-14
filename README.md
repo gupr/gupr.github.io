@@ -1,5 +1,5 @@
-# gupr.net
-**Homepage for gupr apps & games**
+# gustisen.com
+**Homepage for Gustisen apps & games**
 
 
 ## Credits
